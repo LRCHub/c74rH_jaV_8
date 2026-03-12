@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Shouted Serenade",
+  "base_artist": "LiSA",
+  "createdAt": "2026-03-12T05:44:10.065539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shouted Serenade",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/01_Shouted_Serenade_LiSA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shouted Serenade",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_Shouted_Serenade_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shouted Serenade",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Shouted_Serenade_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shouted Serenade  (i SCREAM Live Version)",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/04_Shouted_Serenade_(i_SCREAM_Live_Version)_LiSA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shouted Serenade -TV version-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/05_Shouted_Serenade_-TV_version-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shouted Serenade -TV Ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/06_Shouted_Serenade_-TV_Ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shouted Serenade - i SCREAM Live Version",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/07_Shouted_Serenade_-_i_SCREAM_Live_Version_LiSA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shouted Serenade",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Shouted_Serenade_LiSA.txt"
+    }
+  ]
+}
